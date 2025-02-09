@@ -28,5 +28,5 @@ Provided recommendations for customer retention strategies.
 🎯 Future Enhancements
 Test with more advanced models (Deep Learning).
 Implement real-time monitoring for churn prediction.
-🔗 [Demo / Live Project (if available)]
-📁 [Dataset (if public)]
+🔗 Demo / Live Project customer-churn-prediction.ipynb
+📁 Dataset Telco-Customer-Churn.csv
